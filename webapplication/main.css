@@ -1,0 +1,36 @@
+h5 {
+    font-size: 200px;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    margin: 0px;
+}
+
+.navIcon {
+    color: #942AFF;
+    width: 100px;
+    height: 100px;
+}
+
+#map {
+    position: absolute;
+    top:-10px;
+    height: 667px;
+    width: 375px;
+    z-index: -1;
+
+}
+
+.navbar {
+    margin: 0;
+    position: absolute;
+    top: 520px;
+}
+
+.dropzone {
+    position: absolute;
+    top:650px;
+}
